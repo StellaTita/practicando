@@ -21,7 +21,7 @@
 
     <h1>Juego de Adivinanza</h1>
     <p>Adivina un número del 1 al 10</p>
-    <img src="mujer_estudiando.jpg" alt="Mujer Estudiando">
+    <img src="mujer_estudiando.avif" alt="Mujer Estudiando">
 
     <div id="mensaje"></div>
     <div id="intentos"></div>
